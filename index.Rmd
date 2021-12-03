@@ -1,0 +1,22 @@
+---
+title: "Bioinformatics!"
+image: "https://bioboot.github.io/bggn213_F21/assets/img/logo.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: BIMM143
+    url: "http://thegrantlab.org/bimm143/"
+  - label: BGGN213
+    url: "http://thegrantlab.org/bggn213/"
+  - label: BIMM194
+    url: "http://thegrantlab.org/bimm194/"
+  - label: HomePage
+    url: "http://thegrantlab.org/"
+output:
+  postcards::onofre
+---
+ 
+Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research.  
+
+I teach a range of Bioinformatics courses at undergraduate and graduate levels @ UC San Diego. Check out some of these courses below:
